@@ -1,0 +1,3 @@
+/home/camposjulca/Repos_cristhiamdaniel/ProgramacionAvanzada/cmake-build-debug/CMakeFiles/ProgramacionAvanzada.dir
+/home/camposjulca/Repos_cristhiamdaniel/ProgramacionAvanzada/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/camposjulca/Repos_cristhiamdaniel/ProgramacionAvanzada/cmake-build-debug/CMakeFiles/rebuild_cache.dir
