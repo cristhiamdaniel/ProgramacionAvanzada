@@ -49,8 +49,8 @@ cmake_ninja_workdir = /home/camposjulca/Repos_cristhiamdaniel/ProgramacionAvanza
 
 build cmake_object_order_depends_target_ProgramacionAvanzada: phony || CMakeFiles/ProgramacionAvanzada.dir
 
-build CMakeFiles/ProgramacionAvanzada.dir/Session02/modelo_mod.cpp.o: CXX_COMPILER__ProgramacionAvanzada_unscanned_Debug /home/camposjulca/Repos_cristhiamdaniel/ProgramacionAvanzada/Session02/modelo_mod.cpp || cmake_object_order_depends_target_ProgramacionAvanzada
-  DEP_FILE = CMakeFiles/ProgramacionAvanzada.dir/Session02/modelo_mod.cpp.o.d
+build CMakeFiles/ProgramacionAvanzada.dir/Session02/regresion_lineal.cpp.o: CXX_COMPILER__ProgramacionAvanzada_unscanned_Debug /home/camposjulca/Repos_cristhiamdaniel/ProgramacionAvanzada/Session02/regresion_lineal.cpp || cmake_object_order_depends_target_ProgramacionAvanzada
+  DEP_FILE = CMakeFiles/ProgramacionAvanzada.dir/Session02/regresion_lineal.cpp.o.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/ProgramacionAvanzada.dir
   OBJECT_FILE_DIR = CMakeFiles/ProgramacionAvanzada.dir/Session02
@@ -63,7 +63,7 @@ build CMakeFiles/ProgramacionAvanzada.dir/Session02/modelo_mod.cpp.o: CXX_COMPIL
 #############################################
 # Link the executable ProgramacionAvanzada
 
-build ProgramacionAvanzada: CXX_EXECUTABLE_LINKER__ProgramacionAvanzada_Debug CMakeFiles/ProgramacionAvanzada.dir/Session02/modelo_mod.cpp.o
+build ProgramacionAvanzada: CXX_EXECUTABLE_LINKER__ProgramacionAvanzada_Debug CMakeFiles/ProgramacionAvanzada.dir/Session02/regresion_lineal.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/ProgramacionAvanzada.dir
   POST_BUILD = :
