@@ -4,4 +4,4 @@ project(ProgramacionAvanzada)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(ProgramacionAvanzada
-        Session02/regresion_lineal.cpp)
+        Session02/Regresion_desde_cero_b.cpp)

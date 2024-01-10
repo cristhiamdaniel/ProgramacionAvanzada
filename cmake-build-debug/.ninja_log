@@ -1,6 +1,7 @@
 # ninja log v5
-1	1262	1702936625634962918	CMakeFiles/ProgramacionAvanzada.dir/Session02/modelo_mod.cpp.o	1000a96f4f6d4032
-1	748	1702763896280317229	CMakeFiles/ProgramacionAvanzada.dir/Session01/modelo.cpp.o	f2eb3d2d02a54348
-1205	1335	1702950347198951841	ProgramacionAvanzada	25fcf674fc5b66ee
-0	42	1702995032863572263	build.ninja	d066fed7177e70b7
-1	1205	1702950347068951835	CMakeFiles/ProgramacionAvanzada.dir/Session02/regresion_lineal.cpp.o	13b23f6682c8ecd1
+365	437	1704903220442576232	ProgramacionAvanzada	fa0e572bf6f780c5
+1	25	1704904700195980265	build.ninja	6853818c835ab226
+1	365	1704903220372576229	CMakeFiles/ProgramacionAvanzada.dir/Session02/Regresion_desde_cero_a.cpp.o	639844bc4027ccbc
+0	23	1704904700195980265	build.ninja	6853818c835ab226
+0	517	1704904700719313623	CMakeFiles/ProgramacionAvanzada.dir/Session02/Regresion_desde_cero_b.cpp.o	aa55d68a8bcc5dec
+517	595	1704904700795980294	ProgramacionAvanzada	cdba345c64410e2e
